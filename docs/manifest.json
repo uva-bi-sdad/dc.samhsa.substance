@@ -1,0 +1,47 @@
+{
+  "name": "dc.samhsa.substance",
+  "data": [
+    {
+      "name": "acccess_scores_substance",
+      "variables": ["subs_pop_cnt", "subs_cnt", "subs_near_10_mean", "subs_near_10_median", "subs_2sfca", "subs_e2sfca", "subs_3sfca"],
+      "file": "dmv_cttrbg_samhsa_2021_acccess_scores_substance.csv.xz",
+      "size": 187212,
+      "md5": "f9ad06b92566d90a78bfd07408dfc950"
+    },
+    {
+      "name": "access_scores_substance",
+      "variables": ["subs_pop_cnt", "subs_cnt", "subs_near_10_mean", "subs_near_10_median", "subs_2sfca", "subs_e2sfca", "subs_3sfca"],
+      "file": "dmv_cttrbg_samhsa_2021_access_scores_substance.csv.xz",
+      "size": 187212,
+      "md5": "f9ad06b92566d90a78bfd07408dfc950"
+    },
+    {
+      "name": "access_scores_substance",
+      "variables": ["subs_pop_cnt", "subs_cnt", "subs_near_10_mean", "subs_near_10_median", "subs_2sfca", "subs_e2sfca", "subs_3sfca"],
+      "file": "va_hdcttrbg_samhsa_2021_access_scores_substance.csv.xz",
+      "size": 394416,
+      "md5": "982aff9d07e7945217ff0d2cd8612b69"
+    }
+  ],
+  "distributions": {
+    "dataverse": {
+      "id": 55971,
+      "doi": "doi:10.18130/V3/C2VAWC",
+      "server": "https://dataverse.lib.virginia.edu/",
+      "data": [
+        {
+          "file": "dmv_cttrbg_samhsa_2021_access_scores_substance.csv.xz",
+          "id": 55987,
+          "size": 187212,
+          "md5": "f9ad06b92566d90a78bfd07408dfc950"
+        },
+        {
+          "file": "va_hdcttrbg_samhsa_2021_access_scores_substance.csv.xz",
+          "id": 56000,
+          "size": 394416,
+          "md5": "982aff9d07e7945217ff0d2cd8612b69"
+        }
+      ]
+    }
+  }
+}
